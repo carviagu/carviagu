@@ -2,7 +2,7 @@
 
 # 👋 Hola!
 
-**Data Analyst** with knowledge of **Business Management** and **Computer Science**, know learning **Data Science**. 
+**Data Analyst** with knowledge of **Business Management** and **Computer Science**, know learning and going deeper into **Data Science**. 
 
 
 <p> <a href="https://www.linkedin.com/in/carviagu/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ew"/></a></p>
